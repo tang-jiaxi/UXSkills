@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: space-between;  
+  margin: 30px;
+}
+
+.futureContainer, .currentContainer {
+  width: 1600px;  
+}
+
