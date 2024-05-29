@@ -1,4 +1,5 @@
-import Chart from 'chart.js/auto'
+// import Chart from 'chart.js/auto'
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
 const UXD1 = 'rgb(159, 206, 103)';
 const UXD1a = 'rgba(159, 206, 103, 0.2)';
