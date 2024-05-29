@@ -1,0 +1,10 @@
+.container {
+  justify-content: space-between;
+  margin: 30px;
+  display: flex;
+}
+
+.futureContainer, .currentContainer {
+  width: 1600px;
+}
+/*# sourceMappingURL=index.7b74d850.css.map */

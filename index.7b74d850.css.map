@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;;AAMA","sources":["src/UXData.css"],"sourcesContent":[".container {\n  display: flex;\n  justify-content: space-between;  \n  margin: 30px;\n}\n\n.futureContainer, .currentContainer {\n  width: 1600px;  \n}\n\n"],"names":[],"version":3,"file":"index.7b74d850.css.map","sourceRoot":"/__parcel_source_root/"}
