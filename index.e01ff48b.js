@@ -899,7 +899,7 @@ const option = {
     scales: {
         r: {
             suggestedMin: 0,
-            suggestedMax: 3,
+            suggestedMax: 4,
             ticks: {
                 stepSize: 1
             }
